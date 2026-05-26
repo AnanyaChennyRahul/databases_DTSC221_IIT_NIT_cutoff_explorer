@@ -1,0 +1,55 @@
+Uni_id,Institute_Name,Location,Established_Year,Institute_type,NAAC_Grade (NG-Notgraded),NIRF_ranking (0- not rated),Total_enrollment,Campus_size
+1, IIT-Bombay              ,Maharashtra,1958,IIT,AAA,4,12004,545
+2, IIT-Delhi               ,Delhi,1961,IIT,A,3,9132,325
+3, IIT-Kharagpur           ,West Bengal,1951,IIT,A,7,12730,2100
+4, IIT-Kanpur              ,Uttar Pradesh,1959,IIT,A,5,6400,1055
+5, IIT-Madras              ,Tamil Nadu,1959,IIT,A,1,10224,617
+6, IIT-Roorkee             ,Uttarakhand,1847,IIT,NG,8,7918,358.5
+7, IIT-Guwahati            ,Assam,1994,IIT,NG,9,6294,700
+8, IIT-Indore              ,Madhya Pradesh,2009,IIT,AA,28,1814,501.42
+9, IIT-Hyderabad           ,Telangana,2008,IIT,AA,14,4200,576
+10, IIT-(BHU) Varanasi      ,Uttar Pradesh,1919,IIT,A,11,6673,1300
+11, IIT-(ISM) Dhanbad       ,Jharkhand,1926,IIT,A,42,7321,393
+12, IIT-Bhubaneswar         ,Odisha,2008,IIT,A,91,1149,936
+13, IIT-Mandi               ,Himachal Pradesh,2009,IIT,NG,73,1655,538
+14, IIT-Patna               ,Bihar,2008,IIT,NG,66,1816,501
+15, IIT-Gandhinagar         ,Gujarat,2008,IIT,NG,24,1719,400
+16, IIT-Ropar               ,Punjab,2008,IIT,B,33,1920,500
+17, IIT-Jodhpur             ,Rajasthan,2008,IIT,NG,66,1388,852
+18, IIT-Tirupati            ,Andhra Pradesh,2015,IIT,AA,60,1250,548
+19, IIT-Bhilai              ,Chhattisgarh,2016,IIT,NG,81,583,445
+20, IIT-Dharwad             ,Karnataka,2016,IIT,A,93,525,135
+21, IIT-Goa                 ,Goa,2016,IIT,AAA,0,400,320
+22, IIT-Jammu               ,Jammu and Kashmir,2016,IIT,AAA,67,609,400
+23, IIT-Palakkad            ,Kerala,2015,IIT,NG,69,751,504.54
+24, NIT-Tiruchirappalli     ,Tamil Nadu,1964,NIT,NG,21,7385,800
+25, NIT-Uttarakhand         ,Uttarakhand,2009,NIT,A,131,1130,100
+26, NIT-Warangal            ,Telangana,1959,NIT,A,53,5645,248
+27, NIT-Surat               ,Gujarat,1961,NIT,BB,65,4952,250
+28, NIT-Nagpur              ,Maharashtra,1960,NIT,NG,82,3903,215
+29, NIT-Andhra-Pradesh      ,Andhra Pradesh,2015,NIT,AA,252,1503,172.6
+30, NIT-Jalandhar           ,Punjab,1987,NIT,A,72,3911,154
+31, NIT-Jaipur              ,Rajasthan,1963,NIT,A,37,4936,317
+32, NIT-Bhopal              ,Madhya Pradesh,1960,NIT,AAA,80,4987,650
+33, NIT-Allahabad           ,Uttar Pradesh,1961,NIT,AAA,89,4987,222
+34, NIT-Agartala            ,Tripura,2002,NIT,AA,91,3500,365
+35, NIT-Calicut             ,Kerala,1961,NIT,A,23,6500,300
+36, NIT-Delhi               ,Delhi,2010,NIT,B,51,696,51
+37, NIT-Durgapur            ,West Bengal,1960,NIT,AAA,43,4000,187
+38, NIT-Goa                 ,Goa,2010,NIT,AAA,90,635,113
+39, NIT-Hamirpur            ,Himachal Pradesh,1986,NIT,A,51,3837,320
+40, NIT-Karnataka-Surathkal ,Karnataka,1960,NIT,NG,9,5712,295.35
+41, NIT-Meghalaya           ,Meghalaya,2010,NIT,AA,72,995,300
+42, NIT-Nagaland            ,Nagaland,2010,NIT,AA,201,642,291
+43, NIT-Patna               ,Bihar,2004,NIT,AA,56,2757,40
+44, NIT-Puducherry          ,Puducherry,2010,NIT,AAA,136,958,258
+45, NIT-Raipur              ,Chhattisgarh,1956,NIT,AA,70,3893,100
+46, NIT-Sikkim              ,Sikkim,2010,NIT,AAA,173,763,100
+47, NIT-Arunachal-Pradesh   ,Arunachal Pradesh,2010,NIT,AA,126,1177,301
+48, NIT-Jamshedpur          ,Jharkhand,1960,NIT,A,101,4000,341.3
+49, NIT-Kurukshetra         ,Haryana,1963,NIT,NG,58,4591,300
+50, NIT-Manipur             ,Manipur,2010,NIT,NG,95,787,341.5
+51, NIT-Mizoram             ,Mizoram,2010,NIT,A,250,850,190
+52, NIT-Rourkela            ,Odisha,1961,NIT,A,16,4862,648
+53, NIT-Silchar             ,Assam,1967,NIT,NG,40,3809,625
+54, NIT-Srinagar,Jammu and Kashmir,1960,NIT,NG,82,3001,67
