@@ -1,6 +1,6 @@
 ﻿# IIT-NIT Cutoff Explorer
 
-Final project for the **Databases for Data Science** course.
+Final project for the **Databases for Data Science** course submitted by Ananya Chenny Rahul and Anannya Umesh.
 
 ## Problem Statement
 Students preparing for engineering admissions in India often need to compare IIT and NIT options across many dimensions at once: cutoff trends, institute quality indicators, branch availability, location, and category-wise seat competitiveness. In practice, this information is scattered across multiple sources and presented in formats that are difficult to query quickly.
